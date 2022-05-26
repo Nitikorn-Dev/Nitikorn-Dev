@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitikorn-Dev&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitikorn-Dev&show_icons=true&theme=radical&layout=compact&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitikorn-Dev&layout=compact&show_icons=true&theme=radical&count_private=true)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
